@@ -272,36 +272,6 @@ int main() {
     return 0;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*// A function to display the disk space analysis information
 void display_disk_analysis() {
     printf("\nDisk Space Analysis\n");
